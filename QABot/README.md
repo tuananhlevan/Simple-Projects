@@ -1,6 +1,6 @@
 # QABot: PDF Question-Answering with LLaMA 3 & Chroma
 
-**QABot** is a lightweight retrieval-augmented question-answering system that reads content from PDF files and returns highly accurate answers using Meta's [`Llama-3.2-3B-Instruct`](https://huggingface.co/meta-llama/Llama-3-3.2B-Instruct) model, combined with vector search via [Chroma](https://www.trychroma.com/).
+**QABot** is a lightweight retrieval-augmented question-answering system that reads content from PDF files and returns highly accurate answers using Meta's [`Llama-3.2-3B-Instruct`](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) model, combined with vector search via [Chroma](https://www.trychroma.com/).
 
 ---
 
